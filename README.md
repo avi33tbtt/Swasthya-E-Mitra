@@ -11,3 +11,4 @@ Rajasthan Governement Health Empowerment and Research Project
 - ChatBot Need to run on MAMP/WAMP but database settings were tough to configure
 
 - Speech Recognition on Angular JS works as it is
+
